@@ -1,11 +1,12 @@
 {
 
-  "name": "serps/search-engine-google",
+  "name": "lw_serps/search-engine-google",
   "description": "Google Rules and client for SERPS",
   "type": "library",
   "keywords": ["SERPS", "Google"],
   "homepage": "https://github.com/serp-spider/search-engine-google",
   "license": "Fair",
+  "version": "1.0.0",
 
   "authors": [
     {
